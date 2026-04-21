@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "install-all": "npm install && cd server && npm install && cd ../client && npm install",
     "build": "cd client && npm install && npm run build",
