@@ -150,7 +150,7 @@ const LandingPage = () => {
                         ColdMail AI
                     </span>
                      <span className="text-l font-black bg-gradient-to-r from-gray-700 to-gray-600 bg-clip-text text-transparent mb-4">
-                        Developed by Shivam Kumar Singh
+                        Developed by sushil kumar
                     </span>
                     <p className="text-gray-500 text-sm">© {new Date().getFullYear()} ColdMail AI. All rights reserved.</p>
                 </div>
